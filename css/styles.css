@@ -24,7 +24,7 @@ body {
           text-align: center;
         }
         h4 {
-          font-size: 25px;
+          font-size: 15px;
           font-weight: bold;
         }
         img{
@@ -155,4 +155,8 @@ body {
 
                         input[type="submit"]:hover {
                             background-color: #555;
+                        }
+
+                   .end {
+                               font-size: 15px;
                         }
